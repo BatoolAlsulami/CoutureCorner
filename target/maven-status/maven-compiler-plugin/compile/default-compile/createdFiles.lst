@@ -1,0 +1,13 @@
+com\mycompany\couturecorner\RatingApp.class
+com\mycompany\couturecorner\App.class
+com\mycompany\couturecorner\Rating.class
+com\mycompany\couturecorner\BillApp.class
+com\mycompany\couturecorner\AccessoriesInterface.class
+com\mycompany\couturecorner\Bill.class
+com\mycompany\couturecorner\OutfitApp.class
+module-info.class
+com\mycompany\couturecorner\customer.class
+com\mycompany\couturecorner\OutFit.class
+com\mycompany\couturecorner\HibernateUtil.class
+com\mycompany\couturecorner\Accessories.class
+com\mycompany\couturecorner\Menu.class
